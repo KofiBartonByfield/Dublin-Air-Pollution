@@ -24,26 +24,12 @@ The report proposes the following recommendations for Dublin City Council:
 ## Repository Contents
 
 * **Report.pdf:** The full Dublin Air Pollution Analysis Report.
-* **Notebook Code.ipynb:** [Likely contains the Python code used for data analysis and generating the findings of the report - *Note: This is based on the filename provided*].
+* **Notebook Code.ipynb:** Contains the Python code used for data analysis and generating the findings of the report.
 
 ## Usage
 
 To understand the analysis in detail, please refer to the **Report.pdf** file. If you wish to examine the code used for the analysis, please open and run the **Notebook Code.ipynb** file (requires a Jupyter Notebook environment and necessary Python libraries).
 
-## Contributing
-
-[Optional: Add information about how others can contribute to this project, e.g., reporting issues, suggesting improvements.]
-
-## License
-
-[Optional: Include the license under which this project is released.]
-
-## Authors
-
-* DANIEL HENECK
-* DARRAGH MCGEE
-* KOFI BARTON-BYFIELD
-
 ## Acknowledgements
 
-Commissioned by Dublin City Council.
+Dublin City Council.
